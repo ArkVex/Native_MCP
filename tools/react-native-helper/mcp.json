@@ -1,0 +1,12 @@
+{
+  "name": "react-native-helper",
+  "entry_point": "main.py",
+  "commands": {
+    "generate_component": {
+      "description": "Generate a React Native component",
+      "params": {
+        "component_name": "string"
+      }
+    }
+  }
+} 

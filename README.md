@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server for React Native development tools and utilities.
 
+<a href="https://glama.ai/mcp/servers/@ArkVex/Native_MCP">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@ArkVex/Native_MCP/badge" alt="Native_MCP MCP server" />
+</a>
+
 ## 🚀 Overview
 
 Native_MCP is an extensible MCP server that provides tools and utilities for React Native development. It allows AI assistants like Claude to generate React Native components and perform other development tasks through a standardized protocol.
